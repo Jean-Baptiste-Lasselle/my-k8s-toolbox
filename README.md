@@ -9,3 +9,5 @@ Many tools I like, and use, when working inside kubernetes
 * `socat`
 * flannel
 * https://github.com/metallb/metallb
+* https://github.com/helm/monocular
+

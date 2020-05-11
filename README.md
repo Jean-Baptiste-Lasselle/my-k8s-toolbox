@@ -7,3 +7,5 @@ Many tools I like, and use, when working inside kubernetes
 * `kubectl`
 * `spekt8`
 * `socat`
+* flannel
+* https://github.com/metallb/metallb
